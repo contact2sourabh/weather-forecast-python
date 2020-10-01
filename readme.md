@@ -3,7 +3,7 @@ This is a python script through which you can get the predicted weather for upco
 ___
 This is basically a scrapper which srapes the data from a website which shows the predicted weather forecast for upcoming seven days and few more things related to this are also shown in the website like a short description.
 <br>
-The reason why i have named it as a forecaster is because you will be getting the forecasted weather for upcoming days all at a single place.
+The reason  behind this why i have named it as a forecaster is because you will be getting the predicted weather for upcoming days all at a single place.
 ___
 Built using
 * Pandas
